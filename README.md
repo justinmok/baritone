@@ -73,7 +73,7 @@ Have committed at least once a day from Aug 1, 2018, to Aug 1, 2019.
 
 Here are some links to help to get started:
 
-- [Features](FEATURES.md)
+- [Features](FEATURES.md) 
 
 - [Installation & setup](SETUP.md)
 
